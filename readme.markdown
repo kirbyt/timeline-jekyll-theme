@@ -1,6 +1,10 @@
 # Timeline Jekyll Theme
 
-Timeline is multipurpose, single page Jekyll theme that includes a timeline section. This theme is a mash up of two other HTML themes:
+Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
+
+A demo of the timeline theme is available [here](http://kirbyt.github.io/timeline-jekyll-theme).
+
+This theme is a mash up of two other HTML themes:
 
 - [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale)
 - [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme)
