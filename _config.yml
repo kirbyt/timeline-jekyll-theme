@@ -1,5 +1,5 @@
-url: http://kirbyt.github.io/timeline-jekyll-theme
-baseurl: 
+url: http://kirbyt.github.io
+baseurl: /timeline-jekyll-theme
 
 # Site Settings
 title: Timeline
