@@ -2,12 +2,17 @@
 
 Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
 
-A demo of the timeline theme is available [here](http://kirbyt.github.io/timeline-jekyll-theme).
+**Example sites**:
 
-This theme is a mash up of two other HTML themes:
+- [Demo site](http://kirbyt.github.io/timeline-jekyll-theme)
+- [kirbyturner.com](http://www.kirbyturner.com)
+
+This theme is a mashup of two other themes:
 
 - [Grayscale by Start Bootstrap](https://github.com/IronSummitMedia/startbootstrap-grayscale)
 - [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme)
+
+Big thanks to the creators of Grayscale and Agency. This theme would not be possible without their hard work.
 
 ## How to Use
 
