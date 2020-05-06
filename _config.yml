@@ -1,9 +1,9 @@
-url: http://kirbyt.github.io
+url: "http://localhost:4000/"
 baseurl: /timeline-jekyll-theme
 
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+title: "Syed Jawad Akhtar"
+description: "This is my Curriclum Vitae"
 keywords: "jekyll, theme"
 google-tracking-id:
 

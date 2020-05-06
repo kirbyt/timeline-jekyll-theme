@@ -1,0 +1,7 @@
+---
+layout: null
+title: August 2016
+subtitle:
+image: "img/timeline/AMU.jpeg"
+---
+Started Bachelors in Computer Engineering from [AMU](https://www.amu.ac.in/)

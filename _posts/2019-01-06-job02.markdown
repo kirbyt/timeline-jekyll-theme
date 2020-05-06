@@ -1,0 +1,8 @@
+---
+layout: null
+title: June 2019 - August 2019
+subtitle:
+image: "img/timeline/KIEL.jpeg"
+---
+Research intern at the [University of Kiel](https://www.uni-kiel.de/en/), Germany 
+

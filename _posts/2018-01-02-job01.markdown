@@ -1,0 +1,8 @@
+---
+layout: null
+title: March 2018
+subtitle:
+image: "img/timeline/LogoSauvc.png"
+---
+Represented college team in [Singapore AUV Challenge - 2018](https://sauvc.org/) at Singapore Polytechnic.
+Won "Best AUV" Challenge.

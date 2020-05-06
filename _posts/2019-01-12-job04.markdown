@@ -1,0 +1,9 @@
+---
+layout: null
+title: December 2019
+subtitle:
+image: "img/timeline/Pub2019.jpeg"
+---
+[Publication](https://doi.org/10.1016/j.matpr.2019.11.320):
+Estimation of seismic wave velocities of metamorphic rocks using artificial neural network
+

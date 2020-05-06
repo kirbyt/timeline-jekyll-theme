@@ -1,0 +1,9 @@
+---
+layout: null
+title: February 2020
+subtitle:
+image: "img/timeline/Pub2020.jpeg"
+---
+[Publication](https://www.researchgate.net/publication/336568027_Soft_and_Hard_Computation_Methods_for_Estimation_of_the_Effective_Thermal_Conductivity_of_Sands):
+Effective thermal conductivity of unsaturated sand using artificial neural network (ANN) and lattice element method (LEM)
+

@@ -1,0 +1,8 @@
+---
+layout: null
+title: January 2019
+subtitle:
+image: "img/timeline/BEACON.jpeg"
+---
+[Project](https://github.com/auvzhcet/Documentation/blob/master/Acoustics.md): Acoustic Localization of beacons in AUVs.
+
